@@ -1,0 +1,5 @@
+## Installation
+1. Install Xampp <br/>
+2. Extract this file <br/>
+3. Paste in C:\Xampp\htdocs\
+
